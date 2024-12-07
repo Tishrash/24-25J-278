@@ -40,17 +40,28 @@ Presents market trends and predictions through interactive charts and graphs.
  Cloud Storage and Processing:
  	Utilizes AWS, Google Cloud, or Azure for scalable data handling.
  Mobile/Responsive Frontend:
-  Developed using  React Native for seamless user experience.
+  Developed using  React Native for a seamless user experience.
  Backend Services:
 	Powered by  Node.js for API integrations and data processing.
 
-# COMPONENT#3
-## Description
-## Features
-## Component Diagram
-## Technologies
+# COMPONENT#3 - Tire condition assessment using image recognition 
+## Description -   
+Tire quality is crucial for automobile safety and performance, yet traditional methods of assessing tire conditions are manual, time-consuming, and prone to errors.​ To address these limitations, our research focuses on developing an intelligent tire assessment system using image processing and machine learning technologies.
 
-# COMPONENT#4
+## Features
+Tire quality assessment: Providing a report on the quality of tires 
+Mileage prediction: giving current mileage and remaining mileage 
+
+## Technologies
+Matplotlib: Used for visualization​
+OpenCV: Used to Convert images to grayscale​
+	: Identify contours of tread patterns.​
+	: Measure contour spacing or depth.
+Data Augmentation: By expanding the dataset, techniques like rotation, flipping, and zooming enhance model generalization.​
+Google Colab: Cloud-based platform for development and testing.​
+TensorFlow/Keras: Optional for machine learning-based predictions.
+
+# COMPONENT#4 - Intelligent Vehicle Damage Detection and Repair Recommendation System
 ## Description- 
 This component focuses on automating vehicle damage detection and repair recommendations. Using machine learning and image processing, it identifies damage from images and leverages social media data to recommend repair shops based on reviews and trends.
  
