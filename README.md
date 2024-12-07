@@ -51,10 +51,19 @@ Presents market trends and predictions through interactive charts and graphs.
 ## Technologies
 
 # COMPONENT#4
-## Description
-## Features
-## Component Diagram
-## Technologies
+## Description- 
+This component focuses on automating vehicle damage detection and repair recommendations. Using machine learning and image processing, it identifies damage from images and leverages social media data to recommend repair shops based on reviews and trends.
+ 
+## Features-
+Automated Damage Assessment: identify vehicle damage for repair needs.
+Mechanic shops Recommendations: Integrate social media data to suggest top-rated shops.
+
+## Technologies-
+Using OpenCV and CNN models to detect and classify damage.
+TensorFlow or PyTorch for training and deploying the damage detection model.
+Sentiment analysis and emotion recognition for analyzing shop reviews.
+Python libraries like NLTK, Hugging Face Transformers, or TextBlob for NLP tasks.
+
 
 
 
