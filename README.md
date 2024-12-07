@@ -49,7 +49,7 @@ Presents market trends and predictions through interactive charts and graphs.
 Tire quality is crucial for automobile safety and performance, yet traditional methods of assessing tire conditions are manual, time-consuming, and prone to errors.​ To address these limitations, our research focuses on developing an intelligent tire assessment system using image processing and machine learning technologies.
 
 ## Features
-Tire quality assessment: Providing a report on the quality of tires 
+Tire quality assessment: Providing a report on the quality of tires
 Mileage prediction: giving current mileage and remaining mileage 
 
 ## Technologies
