@@ -1,6 +1,6 @@
-24-25J-278 - Research Project
+## 24-25J-278 - Research Project
 
-Team Members
+# Team Members
 
 	•	COMPONENT 01 - Rashmika M.G.T - IT21167546
 	•	COMPONENT 02 - Abeykoon A.M.Y.S - IT21187896
