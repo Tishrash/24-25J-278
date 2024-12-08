@@ -1,5 +1,3 @@
-Your README file provides a clear and structured overview of your research project, highlighting key components and technologies. Here’s a suggestion to improve clarity and consistency in the document while retaining all the important details:
-
 24-25J-278 - Research Project
 
 Team Members
